@@ -1,0 +1,7 @@
+{
+    "name": "com.popcron.string-conversions",
+    "displayName": "Popcron String Conversions",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "A parsing API that allows you convert a single line string to an object."
+}
